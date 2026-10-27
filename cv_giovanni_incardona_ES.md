@@ -5,8 +5,9 @@
 Lanús, Buenos Aires  
 incardonag10@gmail.com  
 +54 9 11 2689-0078  
-LinkedIn: https://www.linkedin.com/in/giovanni-incardona-ba83b3341/
-GitHub:(https://github.com/incardonag10) 
+LinkedIn: https://www.linkedin.com/in/giovanni-incardona-ba83b3341/ 
+
+GitHub:https://github.com/incardonag10
 
 ## PERFIL PROFESIONAL
 
