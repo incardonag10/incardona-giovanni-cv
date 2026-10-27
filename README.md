@@ -110,9 +110,7 @@ You can find more information in the [`projects`](./projects/) section and in my
 
 ## Curriculum Vitae
 
-📄 [View my CV in Spanish](./cv/CV_Giovanni_Incardona_ES.pdf)
-
-An English version will be added in the future.
+📄 [View my CV in Spanish](./cv_giovanni_incardona_ES.md)
 
 ---
 
