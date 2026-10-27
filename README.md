@@ -132,7 +132,7 @@ I am continuously improving my skills in:
 ## Contact
 
 📧 **Email:** incardonag10@gmail.com  
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** https://www.linkedin.com/in/giovanni-incardona-ba83b3341/
 
 ---
 
