@@ -37,19 +37,23 @@ The final objective is to create a search and ranking algorithm that can compare
 
 ## 🏦 Auto Bank Recap
 
-Personal project created to simplify the processing and organization of bank statements.
+Personal project focused on developing a web application to automate the processing and organization of bank statements.
 
-The tool is designed to reduce repetitive manual tasks by processing financial information from different files and generating structured information for analysis.
+The application aims to reduce manual tasks, streamline financial data processing and transform bank statement information into structured data for further analysis.
 
-### Main objectives
+### Main features and objectives
 
-- Process bank statement information
-- Organize financial transactions
-- Consolidate information
-- Reduce repetitive manual tasks
-- Facilitate further analysis of the data
+- Bank statement processing and data extraction.
+- Organization and consolidation of financial transactions.
+- Automation of repetitive administrative tasks.
+- Structured information for further analysis.
+- Simplification of financial data management.
 
-**Status:** 🚧 In development
+**Technologies:** Lovable, AI-assisted development and data processing.
+
+**Live Demo:** https://auto-bank-recap.lovable.app
+
+**Status:** MVP deployed – ongoing improvements.
 
 ---
 
