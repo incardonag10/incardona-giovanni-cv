@@ -56,7 +56,7 @@ I am currently gaining professional experience developing internal technological
 ## Professional Experience
 
 ### Developer / Process Automation
-**BI Estudio | 2026 – Present**
+**BI Estudio | 2026**
 
 Development and improvement of internal tools for a professional accounting firm.
 
